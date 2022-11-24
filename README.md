@@ -1,4 +1,4 @@
-- 👋 Hi, this is @Knkal, Knkal means big sword.
+- 👋 Hi, this is @Knkal
 
 <!---
 Knkal/Knkal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
